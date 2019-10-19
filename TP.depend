@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1524140530 source:c:\users\moham\desktop\tp algo\tp llc\biblio_llc_index.c
+	"Biblio_LLC_Index.h"
+
+1523994222 c:\users\moham\desktop\tp algo\tp llc\biblio_llc_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"Biblio_LLC_Index.h"
+
+1524140463 source:c:\users\moham\desktop\tp algo\tp llc\main.c
+	"Biblio_LLC_Index.h"
+
+1524345456 source:c:\users\moham\desktop\tp llc\main.c
+	"Biblio_LLC_Index.h"
+
+1524340370 c:\users\moham\desktop\tp llc\biblio_llc_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	"Biblio_LLC_Index.h"
+
+1524348155 source:c:\users\moham\desktop\tp llc\biblio_llc_index.c
+	"Biblio_LLC_Index.h"
+
+1524948226 source:c:\users\moham\desktop\le tp\biblio_llc_index.c
+	"Biblio_LLC_Index.h"
+
+1524852250 c:\users\moham\desktop\le tp\biblio_llc_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	"Biblio_LLC_Index.h"
+
+1524922088 source:c:\users\moham\desktop\le tp\main.c
+	"Biblio_LLC_Index.h"
+	"windows.h"
+
+1524959921 source:c:\users\moham\desktop\habi.guerfi.g8\le tp\biblio_llc_index.c
+	"Biblio_LLC_Index.h"
+
+1524950445 c:\users\moham\desktop\habi.guerfi.g8\le tp\biblio_llc_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	"Biblio_LLC_Index.h"
+
+1524951629 source:c:\users\moham\desktop\habi.guerfi.g8\le tp\main.c
+	"Biblio_LLC_Index.h"
+	"windows.h"
+
+1524956321 source:c:\users\moham\documents\habi.guerfi.g8\le tp\biblio_llc_index.c
+	"Biblio_LLC_Index.h"
+
+1524946845 c:\users\moham\documents\habi.guerfi.g8\le tp\biblio_llc_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	"Biblio_LLC_Index.h"
+
+1527306852 source:c:\users\moham\documents\habi.guerfi.g8\le tp\main.c
+	"Biblio_LLC_Index.h"
+	"windows.h"
+
+1524959922 source:c:\users\mourad mostefa\desktop\esi\tp1_2018\le tp\biblio_llc_index.c
+	"Biblio_LLC_Index.h"
+
+1524950446 c:\users\mourad mostefa\desktop\esi\tp1_2018\le tp\biblio_llc_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	"Biblio_LLC_Index.h"
+
+1540919624 source:c:\users\mourad mostefa\desktop\esi\tp1_2018\le tp\main.c
+	"Biblio_LLC_Index.h"
+	"windows.h"
+
+1544310422 source:c:\users\mourad mostefa\desktop\tp1_2018\le tp\main.c
+	"Biblio_Index.h"
+	"index_bib.h"
+	"Tof_bib.h"
+	<windows.h>
+
+1544304765 c:\users\mourad mostefa\desktop\tp1_2018\le tp\biblio_index.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	"Biblio_Index.h"
+
+1544191045 c:\users\mourad mostefa\desktop\tp1_2018\le tp\index_bib.h
+	<stdio.h>
+	<stdlib.h>
+
+1544307226 c:\users\mourad mostefa\desktop\tp1_2018\le tp\tof_bib.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1544307658 source:c:\users\mourad mostefa\desktop\tp1_2018\le tp\biblio_index.c
+	"Biblio_Index.h"
+
